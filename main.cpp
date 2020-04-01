@@ -19,7 +19,7 @@ Input       : None.
 Output      : None.
 Return      : None.
 ******************************************************************************/
-void main() {
+int main() {
 	//Add a Dealer
 	addDealer();
 	//Add players
